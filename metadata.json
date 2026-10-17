@@ -1,0 +1,6 @@
+{
+  "name": "RE:PLAY AI — Sports Injury Recovery & Comeback Assistant",
+  "description": "Doctor/Physiotherapist-guided AI sports recovery platform. Connect professional rehabilitation plans with daily monitoring, recovery scoring, and adaptive safety alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
